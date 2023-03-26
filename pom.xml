@@ -90,13 +90,13 @@
             <uniqueVersion>true</uniqueVersion>
             <id>github</id>
             <name>GitHub Logto Java repository</name>
-            <url>scm:git:ssh://git@github.com:Goodie01/logto-java.git</url>
+            <url>scm:git:ssh://git@github.com/Goodie01/logto-java.git</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
     <scm>
         <developerConnection>
-            scm:git:ssh://git@github.com:Goodie01/logto-java.git
+            scm:git:ssh://git@github.com/Goodie01/logto-java.git
         </developerConnection>
         <tag>HEAD</tag>
     </scm>
