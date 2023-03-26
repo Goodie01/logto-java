@@ -8,7 +8,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <groupId>nz.geek.goodwin.logto</groupId>
     <artifactId>logto-java</artifactId>
 
@@ -97,6 +97,6 @@
         <developerConnection>
             scm:git:git@github.com:Goodie01/logto-java.git
         </developerConnection>
-      <tag>logto-java-0.1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
