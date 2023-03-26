@@ -85,7 +85,6 @@
             </plugins>
         </pluginManagement>
     </build>
-
     <distributionManagement>
         <repository>
             <uniqueVersion>true</uniqueVersion>
@@ -95,4 +94,10 @@
             <layout>default</layout>
         </repository>
     </distributionManagement>
+    <scm>
+        <developerConnection>
+            scm:git:git@github.com:Goodie01/logto-java.git
+        </developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 </project>
