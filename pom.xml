@@ -81,4 +81,12 @@
             </plugins>
         </pluginManagement>
     </build>
+
+    <repositories>
+        <repository>
+            <id>github</id>
+            <name>GitHub Hecate Apache Maven Packages</name>
+            <url>https://github.com/Goodie01/logto-java</url>
+        </repository>
+    </repositories>
 </project>
