@@ -90,7 +90,7 @@
             <uniqueVersion>true</uniqueVersion>
             <id>github</id>
             <name>GitHub Logto Java repository</name>
-            <url>https://github.com/Goodie01/logto-java</url>
+            <url>https://maven.pkg.github.com/Goodie01/logto-java</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
