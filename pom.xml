@@ -88,15 +88,11 @@
 
     <distributionManagement>
         <repository>
+            <uniqueVersion>true</uniqueVersion>
             <id>github</id>
-            <name>GitHub Hecate Apache Maven Packages</name>
-            <url>https://github.com/Goodie01/logto-java</url>
+            <name>GitHub Logto Java repository</name>
+            <url>https://github.com/Goodie01/logto-java.git</url>
+            <layout>default</layout>
         </repository>
     </distributionManagement>
-    <scm>
-        <developerConnection>
-            scm:git:git@github.com:Goodie01/logto-java.git
-        </developerConnection>
-      <tag>HEAD</tag>
-  </scm>
 </project>
