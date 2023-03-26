@@ -14,8 +14,8 @@ jobs:
       - name: Setup Java JDK
         uses: actions/setup-java@v3
         with:
+          distribution: 'adopt'
           java-version: 17
-          server-id: github
       - name: Cache local Maven repository
         uses: actions/cache@v2
         with:
